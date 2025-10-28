@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThvdHkybjFsZG93aHVhOW0za3p4bXh4NzUyaTQ3bWR0OHF1NzZ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bmFgUzNXHBSbArMMB/giphy.gif"  />
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/salahezzat120/salahezzat120/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/salahezzat120/output/snake.svg" alt="Snake animation" />
 
 ###
