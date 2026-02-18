@@ -4,11 +4,7 @@
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=🛡️+Cybersecurity+Student+%40+AIU;🔍+Penetration+Tester+%26+Security+Researcher;💻+Full-Stack+Web+Developer;📱+React+Native+Mobile+Developer;🐍+Python+%7C+JavaScript+%7C+TypeScript;🚀+Building+Secure+%26+Scalable+Apps)](https://git.io/typing-svg)
-
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=🛡️+Cybersecurity+Student+%40+AIU;🔍+Penetration+Tester+%26+Security+Researcher;💻+Full-Stack+Web+Developer;📱+React+Native+Mobile+Developer;🐍+Python+%7C+JavaScript+%7C+TypeScript;🚀+Building+Secure+%26+Scalable+Apps)
 
 ---
 
@@ -164,13 +160,7 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=salahezzat120&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
 
 ---
 
