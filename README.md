@@ -188,12 +188,6 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/salahezzat120/salahezzat120/output/snake.svg" alt="Snake animation" />
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
 
 </div>
