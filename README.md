@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Salah%20Ezzat&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Developer%20%7C%20React%20Native%20Mobile%20Developer&descAlignY=60&descSize=16&descColor=8892b0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Salah%20Ezzat&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=16&descColor=8892b0" />
 
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=🛡️+Cybersecurity+Student+%40+AIU;🔍+Penetration+Tester+%26+Security+Researcher;💻+Full-Stack+Web+Developer;📱+React+Native+Mobile+Developer;🐍+Python+%7C+JavaScript+%7C+TypeScript;🚀+Building+Secure+%26+Scalable+Apps)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=🏴‍☠️+Bug+Bounty+Hunter+%7C+Security+Researcher;🛡️+Penetration+Tester+%40+YesWeHack+%2F+HackerOne+%2F+Intigriti;🔍+Web+%26+Mobile+Application+Security;💻+Full-Stack+Developer+%7C+React+Native;🐍+Python+%7C+JavaScript+%7C+TypeScript;🔓+I+break+things+to+make+them+safer)
 
 ---
 
@@ -15,16 +15,22 @@ class SalahEzzat:
     def __init__(self):
         self.name        = "Salah Ezzat"
         self.roles       = [
-            "🛡️  Cybersecurity Student & Ethical Hacker",
+            "🏴‍☠️  Bug Bounty Hunter & Security Researcher",
+            "🛡️  Penetration Tester (Web & Mobile)",
             "💻  Full-Stack Web Developer",
             "📱  React Native Mobile Developer",
         ]
         self.university  = "American International University (AIU)"
         self.location    = "Cairo, Egypt 🇪🇬"
-        self.focus       = ["Penetration Testing", "Network Security", "Mobile Apps", "Web Dev"]
+        self.platforms   = ["YesWeHack", "HackerOne", "Intigriti", "Bugcrowd", "Google VRP"]
+        self.focus       = [
+            "Web Application Security",
+            "Mobile App Pentesting (Android)",
+            "Source Code Auditing",
+            "API Security & Business Logic Bugs",
+        ]
         self.languages   = ["Python", "JavaScript", "TypeScript", "C#", "Java"]
-        self.mobile      = ["React Native", "Expo", "Flutter"]
-        self.currently   = "Working on my UEBA Graduation Project 🎓"
+        self.currently   = "Hunting bugs & building my UEBA Graduation Project 🎓"
         self.fun_fact    = "I break things to understand how to fix them 🔓"
 
     def say_hi(self):
@@ -36,19 +42,34 @@ me.say_hi()
 
 ---
 
+## 🏴‍☠️ Bug Bounty Platforms
+
+<div align="center">
+
+[![YesWeHack](https://img.shields.io/badge/YesWeHack-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://yeswehack.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
+[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=hackthebox&logoColor=white)](https://intigriti.com)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
+[![Google VRP](https://img.shields.io/badge/Google%20VRP-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://bughunters.google.com)
+
+</div>
+
+---
+
 ## 🛡️ What I Do
 
 <div align="center">
 
-### 🔐 Cybersecurity
+### 🔐 Security Research & Bug Bounty
 
-| 🔴 Offensive | 🔵 Defensive | 🟡 Tools & Platforms |
+| 🔴 Offensive Security | 🔵 Bug Classes | 🟡 Tools & Frameworks |
 |:---:|:---:|:---:|
-| Penetration Testing | Network Monitoring | Kali Linux |
-| WiFi Security (Aircrack-ng) | Firewall Design | Wireshark / Scapy |
-| Brute Force Testing | UEBA Systems | Metasploit |
-| Web App Security | Intrusion Detection | Burp Suite |
-| IDOR & Privilege Escalation | Log Analysis | Nmap |
+| Web Application Pentesting | IDOR & Access Control | Caido / Burp Suite |
+| Mobile App Pentesting (Android) | XSS (Reflected, Stored, DOM) | Frida (Runtime Hooking) |
+| API Security Testing | SSRF & Open Redirect | Ghidra (Reverse Engineering) |
+| Source Code Auditing | OAuth & Authentication Flaws | Nuclei / Nmap |
+| Reverse Engineering | SQL / NoSQL Injection | Wireshark / Scapy |
+| Business Logic Testing | CSRF & Race Conditions | Kali Linux / Android Studio |
 
 ### 💻 Full-Stack Web Development
 
@@ -74,17 +95,18 @@ me.say_hi()
 
 <div align="center">
 
-**🛡️ Cybersecurity**
+### 🏴‍☠️ Security Research & Tools
 
 | Project | Description | Tech |
 |:---|:---|:---:|
+| [🔬 AndroScope](https://github.com/salahezzat120) | Rootless Android pentesting framework — manifest analysis, dex sink scanning, Frida runtime modules. Found real-world Critical & High severity bugs | Python / Frida |
 | [🔥 UEBA Graduation Project](https://github.com/salahezzat120/UEBA-Graduation-Project) | User and Entity Behavior Analytics system for anomaly detection | Python |
 | [🛡️ Firewall Monitor](https://github.com/salahezzat120/firewall) | Real-time packet capturing & filtering with malicious activity detection using Scapy | Python |
-| [⚡ Auto Aircrack](https://github.com/salahezzat120/auto_aircrack) | Automated WiFi handshake capture & cracking for legal lab testing | Python |
+| [⚡ Auto Aircrack](https://github.com/salahezzat120/auto_aircrack) | Automated WiFi handshake capture & cracking for authorized lab testing | Python |
 | [🔐 Password Manager](https://github.com/salahezzat120/Password-manger) | Secure encrypted password manager with GUI built using Tkinter | Python |
 | [🤖 Brute Force Lab](https://github.com/salahezzat120/brute-force-lab) | Controlled brute force testing environment for security research | Python |
 
-**💻 Full-Stack Web Development**
+### 💻 Full-Stack Web Development
 
 | Project | Description | Tech |
 |:---|:---|:---:|
@@ -94,7 +116,7 @@ me.say_hi()
 | [☁️ Cloud Microservices](https://github.com/salahezzat120/cloud) | Cloud-native platform for real-time translation & text summarization | Python |
 | [🎓 Student Advisory System](https://github.com/salahezzat120/Student-Advisory-System) | Course registration & advisor communication platform for students | Java |
 
-**📱 React Native Mobile Development**
+### 📱 React Native Mobile Development
 
 | Project | Description | Tech |
 |:---|:---|:---:|
@@ -124,11 +146,11 @@ me.say_hi()
 
 > React Native · Expo · React Navigation · NativeWind
 
-**🛡️ Security & Networking**
+**🛡️ Security Arsenal**
 
 <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
 
-> Kali Linux · Wireshark · Scapy · Metasploit · Burp Suite · Nmap
+> Caido · Burp Suite · Frida · Ghidra · Nuclei · Nmap · Wireshark · Scapy · Metasploit · Kali Linux
 
 **Databases & Cloud**
 
@@ -157,10 +179,6 @@ me.say_hi()
 <img src="https://github-readme-streak-stats.herokuapp.com?user=salahezzat120&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" height="165" alt="streak stats" />
 
 </div>
-
----
-
-
 
 ---
 
