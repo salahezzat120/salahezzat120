@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Salah%20Ezzat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:16213e&height=200&section=header&text=Salah%20Ezzat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20Developer&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
 <p>
 <a href="https://yeswehack.com"><img src="https://img.shields.io/badge/YesWeHack-ED1C24?style=flat-square&logo=hackthebox&logoColor=white" /></a>
@@ -54,33 +54,28 @@ Security researcher and bug bounty hunter from **Cairo, Egypt** 🇪🇬 — stu
 </tr>
 </table>
 
+**Toolkit**
+
 <p>
-<img src="https://img.shields.io/badge/Caido-5A29E4?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Frida-EF6C00?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Nuclei-5C2D91?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Caido-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/Frida-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/Nuclei-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb&logo=wireshark&logoColor=1f6feb" />
+<img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb&logo=kalilinux&logoColor=1f6feb" />
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
+<img src="https://img.shields.io/badge/Scapy-0d1117?style=for-the-badge&labelColor=0d1117&color=1f6feb" />
 </p>
 
 <br>
 
 ### 💻 &nbsp;Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cs,java&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=react,expo,flutter,androidstudio&theme=dark" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,docker,git&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs,java,react,nextjs,nodejs,express,tailwind,flutter,androidstudio,postgres,mysql,supabase,firebase,docker,git&perline=6&theme=dark" />
+
+> **Languages:** Python · JavaScript · TypeScript · C# · Java &nbsp;|&nbsp; **Mobile:** React Native · Expo · Flutter
 
 <br>
 
